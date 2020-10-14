@@ -1,0 +1,44 @@
+.CardImg{
+    max-height: 250px;
+}
+.CardText{
+    min-height: 72px;
+}
+.Button{
+    border: none;
+    border-radius: 4px;
+    min-width: 72.5px;
+    width: calc(33.3% - 10px);
+    padding: 5px;
+    margin: 5px;
+    font-size: 1rem;
+    font-weight: 600;
+    color: #d1cfdf;
+    transition-property: background-color;
+    transition-property: color;
+    transition: .3s ease-in-out;
+}
+.Button:hover{
+    color: #ffffff;
+}
+.Green{
+    background-color: #2cac32;
+}
+.Green:hover{
+    background-color: #1ac022;
+}
+.Blue{
+    background-color: #255ec9;
+}
+.Blue:hover{
+    background-color: #0158fa;
+}
+.Orange{
+    background-color: #c44308;
+}
+.Orange:hover{
+    background-color: #fa5102;
+}
+.Card{
+    margin:10px 10px;
+}

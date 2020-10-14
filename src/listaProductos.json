@@ -1,0 +1,26 @@
+{
+    "listaProductos":[
+        {
+            "imagen":"https://moresexy.blob.core.windows.net/20171109/20171109151023_DRp7oYPagJGPGpjW.png",
+            "titulo":"Gorro - Grey leaf fox",
+            "valor":"990",
+            "descripcion":"Gorro Negro con Pompon 100% algodon estampado en serigrafia de lobo",
+            "stock":"4"
+        },
+        {
+            "imagen":"https://www.shopsugarbabies.com/assets/images/mp-foxknithat.jpg",
+            "titulo":"Gorro - Tejido zorro gris",
+            "valor":"990",
+            "descripcion":"Gorro Blanco/Gris con orejitas y pompones 100% lana con detalles tejidos",
+            "stock":"2"
+        },
+        {
+            "imagen":"https://i.etsystatic.com/6609139/r/il/4f974a/920313660/il_570xN.920313660_k20m.jpg",
+            "titulo":"Gorro - polar zorro naranjo",
+            "valor":"990",
+            "descripcion":"Gorro Naranjo con orejitas 100% polar",
+            "stock":"6"
+
+        }
+    ]
+}
